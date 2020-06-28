@@ -13,7 +13,7 @@ Abgaben Interface Design Sommersemster 2020
 <p><a href="Aufgabe 6/Aufgabe 6.pdf">Aufgabe #6 </a></p>
 <p><a href="Aufgabe 7/Konzept VR Projekt.pdf">Aufgabe #7 </a></p>
 
-<p><a href="https://www.dropbox.com/sh/vq5j8r3jnnbbykf/AACNVXBH0u3zsoe3-8PRqvbHa?dl=0">Aufgabe #8</a></p>
+<p><a href="https://www.dropbox.com/sh/vq5j8r3jnnbbykf/AACNVXBH0u3zsoe3-8PRqvbHa?dl=0">Aufgabe #8 (muss leider gedownloaded werden, da zu groß)</a></p>
 
 
 <p>von Sarah Willier</p>
