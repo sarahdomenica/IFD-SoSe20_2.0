@@ -5,7 +5,7 @@ window.addEventListener("load", function () {
         indexes: ["Hallo"],
         smart: true,
         action: function (i, wildcard) {
-            artyom.say("Hallo was kann ich für dich tun");
+            artyom.say("Hallo und herzlich willkommen auf meiner Seite. Viel Spaß beim entdecken der Aufgaben.");
         }
     });
 
@@ -13,11 +13,11 @@ window.addEventListener("load", function () {
         indexes: ["Guten Morgen","Guten Tag", "Hallo"],
         action: function(i){
             if(i == 2){
-                artyom.say("Hallo, was kann ich für dich tun");
+                artyom.say("Hallo und herzlich willkommen auf meiner Seite. Viel Spaß beim entdecken der Aufgaben.");
             }else if(i == 1){
-                artyom.say("Guten Tag, was kann ich für dich tun");
+                artyom.say("Hallo und herzlich willkommen auf meiner Seite. Viel Spaß beim entdecken der Aufgaben.");
             }else if(i == 0){
-                artyom.say("Guten Morgen, was kann ich für dich tun");
+                artyom.say("Hallo und herzlich willkommen auf meiner Seite. Viel Spaß beim entdecken der Aufgaben.");
             }
         }
     });
